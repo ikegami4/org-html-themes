@@ -20,6 +20,10 @@
 
 ** Description
 
+The main difference between this fork and original is that bigblow theme of this fork version does not have mini toc and dashboard.
+
+https://ikegami4.bitbucket.io/ uses biglow theme of this fork version.
+
 Though you can easily override CSS stylesheets and add your own HTML themes, we
 can say (or write) that Org mode provides a /basic/ HTML support.
 
